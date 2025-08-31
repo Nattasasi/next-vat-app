@@ -6,6 +6,8 @@ export default function Page() {
                 Price: <input type="number" placeholder="Enter price" />
                 <br/>
                 <button>Calculate VAT</button>
+                <div>VAT Amount: </div>
+                <div>Total Amount: </div>
             </p>
         </div>
     );
